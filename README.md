@@ -16,46 +16,7 @@
 [![](https://raw.githubusercontent.com/wangshungde/wangshungde1/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/wangshungde/wangshungde1/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/wangshungde/wangshungde1/master/profile-summary-card-output/nord_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/wangshungde/wangshungde1/master/profile-summary-card-output/nord_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-<svg fill="none" viewBox="0 0 800 50" width="800" height="50" xmlns="http://www.w3.org/2000/svg">
-	<foreignObject width="100%" height="100%">
-		<div xmlns="http://www.w3.org/1999/xhtml">
-			<style>
-        .marquee {
-          height: 50px;	
-          overflow: hidden;
-          position: relative;
-        }
-        .marquee strong {
-          font-family: "Comic Sans", "Comic Sans MS", Chalkboard, ChalkboardSE-Regular, "Marker Felt", Purisa, "URW Chancery L", cursive, sans-serif !important;
-          color: limegreen;
-          position: absolute;
-          font-size: 1.2em;
-          width: 100%;
-          height: 100%;
-          margin: 0;
-          line-height: 50px;
-          text-align: center;
 
-          transform:translateX(100%);
-
-          animation: marquee 7s linear infinite;
-        }
-
-        @keyframes marquee {
-          0%   { 
-            transform: translateX(100%); 		
-          }
-          100% { 
-            transform: translateX(-80%); 
-          }
-        }
-      </style>
-      <div class="marquee">
-        <strong>Thanks for visiting my profile, see you next time!</strong>
-      </div>
-		</div>
-	</foreignObject>
-</svg>
 
 
 
