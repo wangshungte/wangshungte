@@ -21,14 +21,138 @@
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://github.com/wangshungde/wangshungde1/blob/9cad5bdc8b9b3e60d6a1d3524f286ee20fe8392f/Fred.svg" />
 
 
-<link rel="stylesheet" href="wangshungde/1.css">
+
+
+<style>@charset "UTF-8";
+    .box {
+      border-bottom: solid 2px;
+    }
+    
+    .block {
+      border: solid 2px;
+    }
+    
+    .box {
+      width: 900px;
+      height: 200px;
+      position: relative;
+    }
+    
+    .block {
+      width: 50px;
+      height: 50px;
+      position: absolute;
+      bottom: 0px;
+    }
+    
+    .block1 {
+      left: 150px;
+      animation: ani1 2s infinite;
+    }
+    
+    .block2 {
+      left: 300px;
+      animation: ani2 2s infinite;
+    }
+    
+    .block3 {
+      left: 450px;
+      animation: ani3 2s infinite;
+    }
+    
+    .block4 {
+      left: 600px;
+      animation: ani4 2s infinite;
+    }
+    
+    .block5 {
+      left: 750px;
+      animation: ani5 2s infinite;
+    }
+    
+    @keyframes ani1 {
+      0% {
+        bottom: 100px;
+      }
+      50% {
+        bottom: 0px;
+        background-color: red;
+      }
+      100% {
+        bottom: 100px;
+      }
+    }
+    @keyframes ani2 {
+      0% {
+        bottom: 100px;
+        transition-delay: 5s;
+      }
+      30% {
+        transform: rotate(90deg);
+      }
+      50% {
+        bottom: 0px;
+        transform: rotate(0deg);
+      }
+      70% {
+        transform: rotate(0deg);
+      }
+      100% {
+        bottom: 100px;
+      }
+    }
+    @keyframes ani3 {
+      30% {
+        transform: scale(1);
+      }
+      50% {
+        transform: scale(0.5);
+      }
+      70% {
+        transform: scale(1);
+      }
+    }
+    @keyframes ani4 {
+      0% {
+        transform: translateX(0px) translateY(0px);
+      }
+      20% {
+        transform: translateX(50px) translateY(0px);
+      }
+      40% {
+        transform: translateX(50px) translateY(-50px);
+      }
+      60% {
+        transform: translateX(0px) translateY(-50px);
+      }
+      80% {
+        transform: translateX(0px) translateY(0px);
+      }
+    }
+    @keyframes ani5 {
+      0% {
+        transform: skewX(45deg);
+        transform-origin: 0% 100%;
+      }
+      50% {
+        transform: skewX(-45deg);
+        transform-origin: 0% 100%;
+      }
+      100% {
+        transform: skewX(45deg);
+        transform-origin: 0% 100%;
+      }
+    }
+    </style>
 <div class="box">
+
     <div class="block block1"> </div>
     <div class="block block2"> </div>
     <div class="block block3"> </div>
     <div class="block block4"> </div>
     <div class="block block5"> </div>
 </div>
+
 
 
 
