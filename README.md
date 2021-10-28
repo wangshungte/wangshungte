@@ -21,7 +21,7 @@
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://github.com/wangshungde/wangshungde1/blob/9cad5bdc8b9b3e60d6a1d3524f286ee20fe8392f/Fred.svg" />
 
 
-<link rel="stylesheet" href="1.css">
+<link rel="stylesheet" href="wangshungde/1.css">
 <div class="box">
     <div class="block block1"> </div>
     <div class="block block2"> </div>
