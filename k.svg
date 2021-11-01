@@ -26,21 +26,25 @@
             .block1 {
                 left: 20px;
                 animation: ani1 2s infinite;
+		background-color: white;
             }
 
             .block2 {
                 left: 95px;
                 animation: ani2 2s infinite;
+		background-color: white;
             }
 
             .block3 {
                 left: 170px;
                 animation: ani3 2s infinite;
+		background-color: white;
             }
 
             .block4 {
                 left: 245px;
                 animation: ani4 2s infinite;
+		background-color: white;
             }
 
             .block5 {
