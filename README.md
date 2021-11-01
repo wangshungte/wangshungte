@@ -21,17 +21,10 @@
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://github.com/wangshungde/wangshungde1/blob/9cad5bdc8b9b3e60d6a1d3524f286ee20fe8392f/Fred.svg" />
 
 
+img height="120" alt="Thanks for visiting me" width="100%" src="https://github.com/wangshungde/wangshungde1/blob/9cad5bdc8b9b3e60d6a1d3524f286ee20fe8392f/keyframes.svg" />
 
 
 
-<div class="box">
-
-    <div class="block block1">1 </div>
-    <div class="block block2">2 </div>
-    <div class="block block3">3 </div>
-    <div class="block block4">4 </div>
-    <div class="block block5">5 </div>
-</div>
 
 
 
