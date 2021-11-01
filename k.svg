@@ -2,6 +2,9 @@
 	<foreignObject width="100%" height="100%">
 		<div xmlns="http://www.w3.org/1999/xhtml">
 			<style>
+		*:not(html) {
+    -webkit-transform: translate3d(0, 0, 0);
+}		
             .box {
                 border-bottom: solid 5px;
             }
