@@ -127,7 +127,7 @@
                 }
             }
             </style>
-            <div class="box">
+            <div class="box" begin="3s;op.end+3s">
                 <div class="block block1"> </div>
                 <div class="block block2"> </div>
                 <div class="block block3"> </div>
