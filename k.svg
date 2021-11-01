@@ -53,7 +53,7 @@
                 animation: ani5 2s infinite;
             }
 
-            @keyframes ani1 {
+            @-webkit-keyframes ani1 {
                 0% {
                 bottom: 100px;
                 }
@@ -65,7 +65,7 @@
                 bottom: 100px;
                 }
             }
-            @keyframes ani2 {
+            @-webkit-keyframes ani2 {
                 0% {
                 bottom: 100px;
                 transition-delay: 5s;
@@ -84,7 +84,7 @@
                 bottom: 100px;
                 }
             }
-            @keyframes ani3 {
+            @-webkit-keyframes ani3 {
                 30% {
                 transform: scale(1);
                 }
@@ -95,7 +95,7 @@
                 transform: scale(1);
                 }
             }
-            @keyframes ani4 {
+            @-webkit-keyframes ani4 {
                 0% {
                 transform: translateX(0px) translateY(0px);
                 }
@@ -112,7 +112,7 @@
                 transform: translateX(0px) translateY(0px);
                 }
             }
-            @keyframes ani5 {
+            @-webkit-keyframes ani5 {
                 0% {
                 transform: skewX(45deg);
                 transform-origin: 0% 100%;
