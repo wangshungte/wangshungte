@@ -21,7 +21,7 @@
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://github.com/wangshungde/wangshungde1/blob/9cad5bdc8b9b3e60d6a1d3524f286ee20fe8392f/Fred.svg" />
 
 
-<img height="100%" alt="Thanks for visiting me" width="100%" src="k.svg" begin="3s;op.end+3s" />
+<img height="100%" alt="Thanks for visiting me" width="100%" src="k.svg" />
 
 
 
