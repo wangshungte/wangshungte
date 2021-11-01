@@ -53,7 +53,7 @@
                 animation: ani5 2s infinite;
             }
 
-            @-webkit-keyframes ani1 {
+            @keyframes ani1 {
                 0% {
                 bottom: 100px;
                 }
@@ -65,69 +65,69 @@
                 bottom: 100px;
                 }
             }
-            @-webkit-keyframes ani2 {
+            @keyframes ani2 {
                 0% {
                 bottom: 100px;
-                -webkit-transition-delay: 5s;
+                transition-delay: 5s;
                 }
                 30% {
-                -webkit-transform: rotate(90deg);
+                transform: rotate(90deg);
                 }
                 50% {
                 bottom: 0px;
-                -webkit-transform: rotate(0deg);
+                transform: rotate(0deg);
                 }
                 70% {
-                -webkit-transform: rotate(0deg);
+                transform: rotate(0deg);
                 }
                 100% {
                 bottom: 100px;
                 }
             }
-            @-webkit-keyframes ani3 {
+            @keyframes ani3 {
                 30% {
-                -webkit-transform: scale(1);
+                transform: scale(1);
                 }
                 50% {
-                -webkit-transform: scale(0.5);
+                transform: scale(0.5);
                 }
                 70% {
-                -webkit-transform: scale(1);
+                transform: scale(1);
                 }
             }
-            @-webkit-keyframes ani4 {
+            @keyframes ani4 {
                 0% {
-                -webkit-transform: translateX(0px) translateY(0px);
+                transform: translateX(0px) translateY(0px);
                 }
                 20% {
-                -webkit-transform: translateX(50px) translateY(0px);
+                transform: translateX(50px) translateY(0px);
                 }
                 40% {
-                -webkit-transform: translateX(50px) translateY(-50px);
+                transform: translateX(50px) translateY(-50px);
                 }
                 60% {
-                -webkit-transform: translateX(0px) translateY(-50px);
+                transform: translateX(0px) translateY(-50px);
                 }
                 80% {
-                -webkit-transform: translateX(0px) translateY(0px);
+                transform: translateX(0px) translateY(0px);
                 }
             }
-            @-webkit-keyframes ani5 {
+            @keyframes ani5 {
                 0% {
-                -webkit-transform: skewX(45deg);
-                -webkit-transform-origin: 0% 100%;
+                transform: skewX(45deg);
+                transform-origin: 0% 100%;
                 }
                 50% {
-                -webkit-transform: skewX(-45deg);
-                -webkit-transform-origin: 0% 100%;
+                transform: skewX(-45deg);
+                transform-origin: 0% 100%;
                 }
                 100% {
-                -webkit-transform: skewX(45deg);
-                -webkit-transform-origin: 0% 100%;
+                transform: skewX(45deg);
+                transform-origin: 0% 100%;
                 }
             }
             </style>
-            <div class="box" begin="3s;op.end+3s">
+            <div class="box">
                 <div class="block block1"> </div>
                 <div class="block block2"> </div>
                 <div class="block block3"> </div>
