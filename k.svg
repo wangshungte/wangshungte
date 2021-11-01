@@ -68,17 +68,17 @@
             @-webkit-keyframes ani2 {
                 0% {
                 bottom: 100px;
-                transition-delay: 5s;
+                -webkit-transition-delay: 5s;
                 }
                 30% {
-                transform: rotate(90deg);
+                -webkit-transform: rotate(90deg);
                 }
                 50% {
                 bottom: 0px;
-                transform: rotate(0deg);
+                -webkit-transform: rotate(0deg);
                 }
                 70% {
-                transform: rotate(0deg);
+                -webkit-transform: rotate(0deg);
                 }
                 100% {
                 bottom: 100px;
@@ -86,44 +86,44 @@
             }
             @-webkit-keyframes ani3 {
                 30% {
-                transform: scale(1);
+                -webkit-transform: scale(1);
                 }
                 50% {
-                transform: scale(0.5);
+                -webkit-transform: scale(0.5);
                 }
                 70% {
-                transform: scale(1);
+                -webkit-transform: scale(1);
                 }
             }
             @-webkit-keyframes ani4 {
                 0% {
-                transform: translateX(0px) translateY(0px);
+                -webkit-transform: translateX(0px) translateY(0px);
                 }
                 20% {
-                transform: translateX(50px) translateY(0px);
+                -webkit-transform: translateX(50px) translateY(0px);
                 }
                 40% {
-                transform: translateX(50px) translateY(-50px);
+                -webkit-transform: translateX(50px) translateY(-50px);
                 }
                 60% {
-                transform: translateX(0px) translateY(-50px);
+                -webkit-transform: translateX(0px) translateY(-50px);
                 }
                 80% {
-                transform: translateX(0px) translateY(0px);
+                -webkit-transform: translateX(0px) translateY(0px);
                 }
             }
             @-webkit-keyframes ani5 {
                 0% {
-                transform: skewX(45deg);
-                transform-origin: 0% 100%;
+                -webkit-transform: skewX(45deg);
+                -webkit-transform-origin: 0% 100%;
                 }
                 50% {
-                transform: skewX(-45deg);
-                transform-origin: 0% 100%;
+                -webkit-transform: skewX(-45deg);
+                -webkit-transform-origin: 0% 100%;
                 }
                 100% {
-                transform: skewX(45deg);
-                transform-origin: 0% 100%;
+                -webkit-transform: skewX(45deg);
+                -webkit-transform-origin: 0% 100%;
                 }
             }
             </style>
