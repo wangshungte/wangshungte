@@ -22,6 +22,7 @@
 
 
 <img height="100%" width="100%" src="k.svg" />
+<object data="k.svg" type="k.svg+xml"></object>
 
 
 
