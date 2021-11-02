@@ -1,7 +1,8 @@
 <svg  fill="none" viewBox="0 0 500 300" width="500" height="300" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
 	<foreignObject width="100px" height="100px">
 		<div xmlns="http://www.w3.org/1999/xhtml">
-			<style>		
+			<style>	
+	    -webkit-transform: translate3d(0,0,0)		
             .box {
                 border-bottom: solid 5px;
             }
