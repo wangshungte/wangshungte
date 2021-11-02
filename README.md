@@ -20,10 +20,9 @@
 
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://github.com/wangshungde/wangshungde1/blob/9cad5bdc8b9b3e60d6a1d3524f286ee20fe8392f/Fred.svg" />
 
-<use xmlns:xlink="https://www.w3.org/1999/xlink" xlink:href="k.svg#svg-logo-zon-black"></use>
+
 <img height="100%" width="100%" src="k.svg" />
-<object data="k.svg" type="image/svg+xml"></object>
-<svg-icon src="k.svg"></svg-icon>
+
 
 
 
