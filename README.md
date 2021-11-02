@@ -23,7 +23,7 @@
 
 <img height="100%" width="100%" src="k.svg" />
 <object data="k.svg" type="image/svg+xml"></object>
-
+<svg-icon src="k.svg"></svg-icon>
 
 
 
