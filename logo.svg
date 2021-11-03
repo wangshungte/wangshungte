@@ -1,4 +1,5 @@
 <svg id="pic1" viewBox="0 0 500 300" width="500" height="300" xmlns="http://www.w3.org/2000/svg">
+    <foreignObject width="100%" height="100%">
     <div xmlns="http://www.w3.org/1999/xhtml">
         <line x1="20" y1="0" x2="-20" y2="0"></line>
         <line x1="0" x2="0" y1="-20" y2="20"></line>
@@ -15,5 +16,6 @@
     fill: white;
     }
 </style>    
-    </div>    
+    </div>
+  </foreignObject>      
 </svg>
