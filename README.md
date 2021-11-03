@@ -22,7 +22,16 @@
 
 
 <img height="100%" width="100%" src="k.svg" />
-<link rel="stylesheet" href="style.css">
+<!DOCTYPE html>
+<html lang="en" >
+<head>
+  <meta charset="UTF-8">
+  <title>CodePen - .SVG LOGO動起來</title>
+  <link rel="stylesheet" href="./style.css">
+
+</head>
+<body>
+<!-- partial:index.partial.html -->
 <svg id="pic1" viewbox="-50 -50 100 100">
   <line x1="20" y1="0" x2="-20" y2="0"></line>
   <line x1="0" x2="0" y1="-20" y2="20"></line>
@@ -94,6 +103,10 @@
   </g>
   <text class="text" x="-30" y="50">My computer</text>
 </svg>
+<!-- partial -->
+
+</body>
+</html>
 
 
 
