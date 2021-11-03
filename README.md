@@ -22,7 +22,7 @@
 
 
 <img height="100%" width="100%" src="k.svg" />
-<link rel="stylesheet" href="./style.css">
+<link rel="stylesheet" href="style.css">
 <svg id="pic1" viewbox="-50 -50 100 100">
   <line x1="20" y1="0" x2="-20" y2="0"></line>
   <line x1="0" x2="0" y1="-20" y2="20"></line>
