@@ -1,1 +1,1 @@
-![](./example.svg)
+![](example.svg)
