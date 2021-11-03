@@ -5,13 +5,15 @@
         <circle cx="0" cy="0" r="10">
             <animate attributeName="r" dur="2s" values="10;20;10" repeatCount="indefinite"></animate>
         </circle>
-        <style>
-        #pic1 {
-            stroke: black;
-            stroke-width: 3px;
-            }
-        #pic1 circle {
-            fill: white;
-            }
+<style>
+
+#pic1 {
+    stroke: black;
+    stroke-width: 3px;
+    }
+#pic1 circle {
+    fill: white;
+    }
+</style>    
     </div>    
 </svg>
