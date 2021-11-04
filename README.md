@@ -22,11 +22,9 @@
 [![](https://raw.githubusercontent.com/wangshungde/wangshungde1/master/profile-summary-card-output/nord_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/wangshungde/wangshungde1/master/profile-summary-card-output/nord_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) <img  align='top' src="https://i.imgur.com/qFTXz57.gif" width="50">
 
 
-
+<br><img src="https://i.imgur.com/MR5zkyi.png" alt="unity" width="100%" height="100%"/>
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://github.com/wangshungde/wangshungde1/blob/9cad5bdc8b9b3e60d6a1d3524f286ee20fe8392f/Fred.svg" />
 
-
-<img height="100%" width="100%" src="k.svg" />
 
 
 
