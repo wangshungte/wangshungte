@@ -1,3 +1,4 @@
+<img align="center" src="example.svg"><br>
 <h1 align="center">Hi<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">I'm 王順德</h1>
 <h3 align="center">A passionate frontend developer from Taiwan</h3>
 <img align='left' src="https://i.imgur.com/8FHfEAD.gif" width="230">
@@ -25,7 +26,7 @@
 
 
 <br><img src="https://i.imgur.com/MR5zkyi.png" alt="unity" width="100%" height="100%"/>
-<img height="120" alt="Thanks for visiting me" width="100%" src="https://github.com/wangshungde/wangshungde1/blob/9cad5bdc8b9b3e60d6a1d3524f286ee20fe8392f/Fred.svg" />
+
 
 
 
