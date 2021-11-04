@@ -17,7 +17,7 @@
 
 <img align='left' src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 
-[![](https://raw.githubusercontent.com/wangshungde/wangshungde1/master/profile-summary-card-output/nord_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) <img  align='right' src="https://i.imgur.com/qFTXz57.gif" width="50">
+[![](https://raw.githubusercontent.com/wangshungde/wangshungde1/master/profile-summary-card-output/nord_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) <img  align='top' src="https://i.imgur.com/qFTXz57.gif" width="50">
 
 <br><img  align='left' src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 [![](https://raw.githubusercontent.com/wangshungde/wangshungde1/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/wangshungde/wangshungde1/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) <img  align='top' src="https://i.imgur.com/qFTXz57.gif" width="50">
