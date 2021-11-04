@@ -28,7 +28,7 @@
 <br><img src="https://i.imgur.com/MR5zkyi.png" alt="unity" width="100%" height="100%"/>
 
 
-<img align="right" src="https://i.imgur.com/O9V63Hy.gif">
+<center><img src="https://i.imgur.com/O9V63Hy.gif"></center>
 
 
 
