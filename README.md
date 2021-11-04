@@ -1,6 +1,6 @@
 <h1 align="center">Hi<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">I'm 王順德</h1>
 <h3 align="center">A passionate frontend developer from Taiwan</h3>
-<img align='right' src="https://i.imgur.com/8FHfEAD.gif" width="230">
+<img align='left' src="https://i.imgur.com/8FHfEAD.gif" width="230">
 
 - 🌱 I’m currently learning **JavaScript,OpenCV**
 
