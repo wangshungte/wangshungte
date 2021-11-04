@@ -1,11 +1,12 @@
 <h1 align="center">Hi<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">I'm 王順德</h1>
 <h3 align="center">A passionate frontend developer from Taiwan</h3>
+<img align='right' src="https://i.imgur.com/8FHfEAD.gif" width="230">
 
 - 🌱 I’m currently learning **JavaScript,OpenCV**
 
 - 📝 I regularly write articles on [https://github.com/wangshungde](https://github.com/wangshungde)
 
-- 📫 How to reach me **abcdefg12345619@gmail.com**
+- 📫 How to reach me **Fredwang871022@gmail.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
