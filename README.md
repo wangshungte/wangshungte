@@ -2,6 +2,8 @@
 <h3 align="center">A passionate frontend developer from Taiwan</h3>
 <img align='left' src="https://i.imgur.com/8FHfEAD.gif" width="230">
 
+### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px"> About Me:
+
 - 🌱 I’m currently learning **JavaScript,OpenCV**<img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 
 - 📝 I regularly write articles on [https://github.com/wangshungde](https://github.com/wangshungde)
