@@ -8,7 +8,7 @@
 
 - <img src="https://i.imgur.com/lcIP4hR.gif" width="13">&nbsp;&nbsp;&nbsp;I’m currently learning **JavaScript,OpenCV**<img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 
-- <img src="https://i.imgur.com/Q0bTbVl.gif" width="17"> &nbsp;I regularly write articles on [https://github.com/wangshungde](https://github.com/wangshungde)
+- <img src="https://i.imgur.com/Q0bTbVl.gif" width="17"> &nbsp;I regularly write articles on [https://github.com/wangshungde](https://github.com/wangshungte)
 
 - <img src="https://i.imgur.com/9YVQ0Zk.gif" width="20">&nbsp;How to reach me **Fredwang871022@gmail.com**
 
